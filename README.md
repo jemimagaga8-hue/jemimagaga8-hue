@@ -31,7 +31,7 @@ I'm a Web3 Backend Developer specializing in Solidity smart contracts and blockc
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jemimagaga8-hue&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=jemimagaga8-hue&show_icons=true&theme=radical)
 
 ### 🎯 Current Focus
 
@@ -42,12 +42,9 @@ I'm a Web3 Backend Developer specializing in Solidity smart contracts and blockc
 
 ### 📫 Let's Connect
 
-- 📧 Email: jemimagaga8@gmail,.com
-- 🐦 Twitter: [@JemimaGaga92363](https://twitter.com/\JemimaGaga92363)
-
+- 📧 Email: jemimagaga8@gmail.com
+- 🐦 Twitter: [@JemimaGaga92363](https://twitter.com/JemimaGaga92363)
 
 ---
 
 💼 **Open to Web3 opportunities and collaborations!**
-
-⭐ **Check out my pinned repositories below!**
